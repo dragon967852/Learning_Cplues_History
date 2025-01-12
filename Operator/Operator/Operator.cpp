@@ -42,6 +42,14 @@ int main()
 	cout << "sizof(15.2 + 20) = " << sizeof(15.2 + 20) << endl;// double
 	int iImplicit = -1;
 	cout << "(0 < iImplicit < 100) = " << (0 < iImplicit < 100) << endl;// 經典題目 : 系統會先判別0 < iImplicit，得出結果在與 < 100作判別
+	// 強制語言轉換
+	int total = 20, num = 6;
+	double avg = total / num;
+	cout << "avg = " << avg << endl;
+	cout << "avg = " << (double)total / num << endl;// C語言風格，把total強制轉換為double再進行運算
+	cout << "avg = " << double(total) / num << endl;// C++風格，double為函數，處裡total
+	cout << "avg = " << static_cast<double>(total) / num << endl;//C++強制類型轉換運算符，為C++底層的轉換運算符
+
 
 	cin.get();
 }
