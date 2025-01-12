@@ -1,0 +1,5 @@
+﻿  Operator.cpp
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Operator\Operator\Operator.cpp(37,10): warning C4244: '正在初始化': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Operator\Operator\Operator.cpp(44,43): warning C4804: '<': 作業中不安全的使用類型 'bool'
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Operator\Operator\Operator.cpp(9,1): warning C4723: 可能除以 0
+  Operator.vcxproj -> C:\Users\Jen.C\Desktop\Learning_Cplues_History\Operator\x64\Debug\Operator.exe
