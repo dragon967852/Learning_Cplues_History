@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369D5FC9-FB29-4E43-AAA7-14CCC6F80EE7}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D5FC9-FB29-4E43-AAA7-14CCC6F80EE7}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D5FC9-FB29-4E43-AAA7-14CCC6F80EE7}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\HelloWorld\\HelloWorld\\Welcome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D5FC9-FB29-4E43-AAA7-14CCC6F80EE7}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Welcome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.cpp",
+              "DocumentMoniker": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\HelloWorld\\HelloWorld\\Welcome.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Welcome.cpp",
+              "ToolTip": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\HelloWorld\\HelloWorld\\Welcome.cpp",
+              "RelativeToolTip": "HelloWorld\\Welcome.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T02:20:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T02:14:13.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
