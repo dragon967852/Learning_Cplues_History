@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Variable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFBA33E-92C4-4520-A215-87737028170D}|Variable\\Variable.vcxproj|C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Variable\\Variable\\Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBFBA33E-92C4-4520-A215-87737028170D}|Variable\\Variable.vcxproj|solutionrelative:Variable\\Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variable.cpp",
+              "DocumentMoniker": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Variable\\Variable\\Variable.cpp",
+              "RelativeDocumentMoniker": "Variable\\Variable.cpp",
+              "ToolTip": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Variable\\Variable\\Variable.cpp",
+              "RelativeToolTip": "Variable\\Variable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T02:53:37.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

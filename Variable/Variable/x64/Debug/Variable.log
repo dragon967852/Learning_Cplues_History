@@ -1,0 +1,6 @@
+﻿  Variable.cpp
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Variable\Variable\Variable.cpp(15,19): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Variable\Variable\Variable.cpp(26,13): warning C4309: '正在初始化': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Variable\Variable\Variable.cpp(42,14): warning C4305: '正在初始化': 從 'int' 轉換為 'bool'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Variable\Variable\Variable.cpp(46,13): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Variable.vcxproj -> C:\Users\Jen.C\Desktop\Learning_Cplues_History\Variable\x64\Debug\Variable.exe
