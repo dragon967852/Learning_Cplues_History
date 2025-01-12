@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\IO_File\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162E9587-455D-4831-83DA-DA360924B55E}|IO_File\\IO_File.vcxproj|C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\IO_File\\IO_File\\IO_File.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{162E9587-455D-4831-83DA-DA360924B55E}|IO_File\\IO_File.vcxproj|solutionrelative:IO_File\\IO_File.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162E9587-455D-4831-83DA-DA360924B55E}|IO_File\\IO_File.vcxproj|C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\IO_File\\IO_File\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{162E9587-455D-4831-83DA-DA360924B55E}|IO_File\\IO_File.vcxproj|solutionrelative:IO_File\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\IO_File\\IO_File\\Input.txt",
+              "RelativeDocumentMoniker": "IO_File\\Input.txt",
+              "ToolTip": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\IO_File\\IO_File\\Input.txt",
+              "RelativeToolTip": "IO_File\\Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-12T14:25:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IO_File.cpp",
+              "DocumentMoniker": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\IO_File\\IO_File\\IO_File.cpp",
+              "RelativeDocumentMoniker": "IO_File\\IO_File.cpp",
+              "ToolTip": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\IO_File\\IO_File\\IO_File.cpp",
+              "RelativeToolTip": "IO_File\\IO_File.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T14:24:11.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
