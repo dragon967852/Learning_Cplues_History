@@ -1,0 +1,4 @@
+﻿  Array.cpp
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Array\Array\Array.cpp(11,22): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Array\Array\Array.cpp(11,27): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Array.vcxproj -> C:\Users\Jen.C\Desktop\Learning_Cplues_History\Array\x64\Debug\Array.exe
