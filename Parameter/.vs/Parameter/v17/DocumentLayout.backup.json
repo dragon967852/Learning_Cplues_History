@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Parameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09FD0E7-9B3B-4894-9072-DE2B1DA50357}|Parameter\\Parameter.vcxproj|C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Parameter\\Parameter\\Parameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C09FD0E7-9B3B-4894-9072-DE2B1DA50357}|Parameter\\Parameter.vcxproj|solutionrelative:Parameter\\Parameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parameter.cpp",
+              "DocumentMoniker": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Parameter\\Parameter\\Parameter.cpp",
+              "RelativeDocumentMoniker": "Parameter\\Parameter.cpp",
+              "ToolTip": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Parameter\\Parameter\\Parameter.cpp",
+              "RelativeToolTip": "Parameter\\Parameter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T13:45:00.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
