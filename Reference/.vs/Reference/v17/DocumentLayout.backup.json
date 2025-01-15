@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Reference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB43F376-F1BE-4623-8F65-BD233077B4B5}|Reference\\Reference.vcxproj|C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Reference\\Reference\\Reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB43F376-F1BE-4623-8F65-BD233077B4B5}|Reference\\Reference.vcxproj|solutionrelative:Reference\\Reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reference.cpp",
+              "DocumentMoniker": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Reference\\Reference\\Reference.cpp",
+              "RelativeDocumentMoniker": "Reference\\Reference.cpp",
+              "ToolTip": "C:\\Users\\Jen.C\\Desktop\\Learning_Cplues_History\\Reference\\Reference\\Reference.cpp",
+              "RelativeToolTip": "Reference\\Reference.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T02:50:55.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
