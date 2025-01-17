@@ -5,29 +5,29 @@ using namespace std;
 
 int main()
 {
-	// Åª¥X
+	// è®€å‡º
 	ifstream input("input.txt");
-
-	// ³æµü³v­ÓÅª¨ú
+	
+	// å–®è©žé€å€‹è®€å–
 	//string word;
 	//while (input >> word)
 	//{
 	//	cout << word << endl;
 	//}
-	// ³v¦æÅª¨ú
+	// é€è¡Œè®€å–
 	string line;
 	while (getline(input, line))
 	{
 		cout << line << endl;
 	}
-	// ³v­Ó¦r²ÅÅª¨ú
+	// é€å€‹å­—ç¬¦è®€å–
 	//char ch;
 	//while (input.get(ch))
 	//{
 	//	cout << ch << endl;
 	//}
 
-	// ¿é¥X
+	// è¼¸å‡º
 	//ofstream output("Output.txt");
 	//char ch1;
 	//while (input.get(ch1))

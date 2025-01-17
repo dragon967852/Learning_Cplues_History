@@ -1,3 +1,3 @@
 ﻿  Parameter.cpp
-  LINK : 最後的累加連結找不到或未建置 C:\Users\Jen.C\Desktop\Learning_Cplues_History\Parameter\x64\Debug\Parameter.exe，正在執行完整連結
+C:\Users\Jen.C\Desktop\Learning_Cplues_History\Parameter\Parameter\Parameter.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
   Parameter.vcxproj -> C:\Users\Jen.C\Desktop\Learning_Cplues_History\Parameter\x64\Debug\Parameter.exe

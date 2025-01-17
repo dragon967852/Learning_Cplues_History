@@ -1,19 +1,19 @@
 #include<iostream>
 using namespace std;
 
-// call by value : ¼Æ¾Ú½Æ»sªñ¨Ó¡A°õ¦æ§¹¤§«á°¨¤W¤S¾P·´¡A©Ò¥Hmainªºn¥Ã»·Åã¥Ü¬°0
+// call by value : æ•¸æ“šè¤‡è£½è¿‘ä¾†ï¼ŒåŸ·è¡Œå®Œä¹‹å¾Œé¦¬ä¸ŠåˆéŠ·æ¯€ï¼Œæ‰€ä»¥mainçš„næ°¸é é¡¯ç¤ºç‚º0
 void increase(int x)
 {
 	++x;
 }
 
-// call by address : ±NÅÜ¼Æªº¦ì§}¶Ç»¼ªñ¨Ó¡A°õ¦æ§¹«á¾P·´¡A¦ýÅÜ¼Æ·|¦s¦b
+// call by address : å°‡è®Šæ•¸çš„ä½å€å‚³éžè¿‘ä¾†ï¼ŒåŸ·è¡Œå®Œå¾ŒéŠ·æ¯€ï¼Œä½†è®Šæ•¸æœƒå­˜åœ¨
 void increase2(int* p)
 {
 	++(*p);
 }
 
-// call by reference : ±NÅÜ¼Æ¤Þ¥Î(§O¦W)¶i¨Ó¨ç¼Æ¡A¬Û¸û©ócall by value¡A¬O¥i¥H¤£¥ÎÅÜ¼Æ½Æ»s¡A¥i¥H´£°ª¹B¦æ®Ä²v
+// call by reference : å°‡è®Šæ•¸å¼•ç”¨(åˆ¥å)é€²ä¾†å‡½æ•¸ï¼Œç›¸è¼ƒæ–¼call by valueï¼Œæ˜¯å¯ä»¥ä¸ç”¨è®Šæ•¸è¤‡è£½ï¼Œå¯ä»¥æé«˜é‹è¡Œæ•ˆçŽ‡
 void increase3(int& x)
 {
 	++x;
@@ -40,7 +40,7 @@ void swap3(int& x, int& y)
 	y = temp;
 }
 
-// ->¬O¦¨­û³X°Ý¹Bºâ²Å¡A³q±`¥Î©ó«ü°w³X°ÝÃþ©Îµ²ºcªº¦¨­û¡A§@¥Î¬Û·í©ó.¡A¦ý±Mªù¥Î©ó«ü°w pointer->member == (*pointer).member
+// ->æ˜¯æˆå“¡è¨ªå•é‹ç®—ç¬¦ï¼Œé€šå¸¸ç”¨æ–¼æŒ‡é‡è¨ªå•é¡žæˆ–çµæ§‹çš„æˆå“¡ï¼Œä½œç”¨ç›¸ç•¶æ–¼.ï¼Œä½†å°ˆé–€ç”¨æ–¼æŒ‡é‡ pointer->member == (*pointer).member
 struct Point {
 	int x, y;
 	void print() {
@@ -68,7 +68,7 @@ int main()
 	cout << "a2 = " << a2 << " b2 = " << b2 << endl;
 
 	Point p = { 10, 20 };
-	Point* ptr = &p;
+	Point* ptr = &p; 
 	ptr->print();
 	cout << "x = " << ptr->x << ", y = " << ptr->y << endl;
 	cout << "x = " << (*ptr).x << ", y = " << (*ptr).y << endl;
