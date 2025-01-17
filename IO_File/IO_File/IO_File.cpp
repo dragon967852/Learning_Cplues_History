@@ -7,7 +7,7 @@ int main()
 {
 	// 讀出
 	ifstream input("input.txt");
-	
+
 	// 單詞逐個讀取
 	//string word;
 	//while (input >> word)

@@ -68,7 +68,7 @@ int main()
 	cout << "a2 = " << a2 << " b2 = " << b2 << endl;
 
 	Point p = { 10, 20 };
-	Point* ptr = &p; 
+	Point* ptr = &p;
 	ptr->print();
 	cout << "x = " << ptr->x << ", y = " << ptr->y << endl;
 	cout << "x = " << (*ptr).x << ", y = " << (*ptr).y << endl;
